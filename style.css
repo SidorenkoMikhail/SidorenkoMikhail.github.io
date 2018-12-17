@@ -44,12 +44,12 @@ li {
 	font-size: 2em;
 	font-weight: 500;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-	margin-bottom: 9px;
+	margin-bottom: 19px;
 }
 
 #name h2 {
-	font-size: 1.2em;
-	margin-left: 137px;
+	font-size: 1.4em;
+	margin-left: 208px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
 
@@ -79,14 +79,14 @@ li {
 }
 
 li{
-	padding-bottom: 9px;
+	padding-bottom: 11px;
 }
 
 #contactDetails ul {
 	list-style-type: none;
 	font-size: 1em;
 	margin-top: 22px;
-	margin-right: 207px;
+	margin-right: 177px;
 }
 
 #contactDetails ul li {
@@ -156,14 +156,14 @@ section:last-child {
 .subDetails1 {
 	font-size: 1em;
 	font-style: italic;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 .keySkills {
 	list-style-type: none;
 	-moz-column-count:3;
 	-webkit-column-count:3;
-	column-count:3;
+	column-count:1;
 	margin-bottom: 20px;
 	font-size: 1em;
 	color: #444;
